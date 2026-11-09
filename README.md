@@ -30,12 +30,6 @@ These figures come from the **uploaded notebook's saved outputs**, and may diffe
 ![Growth decomposition comparing early-career share changes, early-career posting volumes, and total demand]
 <img width="2380" height="854" alt="image" src="https://github.com/user-attachments/assets/f72d3048-78e2-4a37-abe6-6a8015f810cb" />
 
-
-![Early-career job posting volume trends]<img width="2560" height="1536" alt="image" src="https://github.com/user-attachments/assets/a1266a32-6f30-45a1-862b-124517ff73f2" />
-
-
-See [figures/](figures/) for the remaining plots. The `fig43_early_share_original.png` file is the *original saved output*; the notebook code now fixes its y-axis to include lower-share groups, but the figure was **not regenerated** because the dataset was not provided.
-
 ## Repository contents
 - `notebooks/chapter4_analysis.ipynb` — original analysis, documented and with two small operational/display fixes
 - `figures/` — charts extracted from existing notebook outputs (not recalculated)
