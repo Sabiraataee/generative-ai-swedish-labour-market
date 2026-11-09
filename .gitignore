@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pyc
+# Do not commit raw employer/job-ad data
+*.csv
+*.jsonl
+data/raw/
+data/processed/
